@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This app is based off an existing app created by a tutor at a different bootcamp.
 
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -21,4 +22,4 @@ I WANT TO be able to view my entire employee directory at once
 SO THAT I have quick access to their information.
 
 # Link to Heroku Deployment
-[Heroku]()
+[Heroku](https://react-emp-directory-jihojk.herokuapp.com/).
